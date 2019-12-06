@@ -1,8 +1,17 @@
 body{
-   
     overflow-x: hidden;
 }
 img{
     width: 100%;
     size: cover;
+}
+p{
+      font-family: 'Bai Jamjuree';font-size: 12px;
+      text-align: center;
+      width: 80%;
+      margin: 0 auto;
+}
+h3{
+      font-family: 'Bai Jamjuree';font-size: 22px;
+      text-align: center;
 }
