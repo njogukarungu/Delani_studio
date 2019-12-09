@@ -28,6 +28,16 @@ body{
 }
 .overlay{
     display: none;
+    position: absolute;
+    border-color: white;
+    border: solid;
+    padding-top: 0;
+    border-width: small;
+    width: 50%;
+    top: 40px;
+    left: 40px;
+    text-align: center;
+    font-size: 20px; 
 }
  
 .imgDetails img{
