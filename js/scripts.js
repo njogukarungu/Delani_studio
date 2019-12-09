@@ -38,5 +38,18 @@ $(".imgDetails .img3").mouseout(function(){
     $(".imgDetails .img3").show();
 });
 
+$(".myportifolio").hover(
+  function() {
+    $(this)
+      .find(".overlay")
+      .show();
+  },
+  function() {
+    $(this)
+      .find(".overlay")
+      .hide();
+  }
+);
+
 
 }); 

@@ -2,32 +2,48 @@ body{
        
     overflow-x: hidden;
 }
+.logo{
+    margin-left: 45%;
+}
 
 .container{
-
-      background-size: auto;
-      
-    margin: 0 auto;
+     background-size: auto;
+     margin: 0 auto;
+}
+.launcher h6{
+     font-family: 'Bai Jamjuree';font-size: 12px;
+     color: #fff;
+     text-align: center;
+}
+.launcher img{
+    align-items: center;
 }
 .launcher{     
     margin: 0 auto;
     background-image: url(img1.jpg);
+    background-size: cover;
 }
 .details{   
     display:    none;
 }
-   
-
-
+.overlay{
+    display: none;
+}
+ 
 .imgDetails img{
 align-items: center;
 align-content: center;
 cursor: pointer;
 }
 
+imghover:hover{
+    opacity: 0.3;
+}
+
 .header{
     cursor: pointer;
 }
+
 
 p{
       font-family: 'Bai Jamjuree';font-size: 12px;
@@ -38,6 +54,8 @@ p{
 h3{
       font-family: 'Bai Jamjuree';font-size: 22px;
       text-align: center;
+      color: #fff;
+      font-style: ;
 }
 .port_align{
     width: 80%;
