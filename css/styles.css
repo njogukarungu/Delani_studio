@@ -27,6 +27,12 @@ body{
 .details{   
     display:    none;
 }
+.ddetails{   
+    display:    none;
+}
+.dddetails{   
+    display:    none;
+}
 .overlay{
     display: none;
     position: absolute;
@@ -91,7 +97,8 @@ h3{
 }
 .textarea{
     width: 100%;
-    
+    opacity: 0.1;
+    color: #fff;
     padding: 12px 20px;
     text-align: center;
 }
