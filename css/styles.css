@@ -14,6 +14,7 @@ body{
      font-family: 'Bai Jamjuree';font-size: 12px;
      color: #fff;
      text-align: center;
+     font-weight: bold; 
 }
 .launcher img{
     align-items: center;
@@ -39,7 +40,14 @@ body{
     text-align: center;
     font-size: 20px; 
 }
- 
+ .services{
+     background-image: url(img2.jpg);
+     color: #fff;
+         font-family: 'Bai Jamjuree';font-size: 25px;
+ }
+ h2{
+     text-align: center;
+ }
 .imgDetails img{
 align-items: center;
 align-content: center;
@@ -65,7 +73,7 @@ h3{
       font-family: 'Bai Jamjuree';font-size: 22px;
       text-align: center;
       color: #fff;
-      font-style: ;
+      font-weight: bold;
 }
 .port_align{
     width: 80%;
