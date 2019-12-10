@@ -105,18 +105,25 @@ h6{
     padding: 12px 20px;
     text-align: center;
 }
-#mce-FNAME{
+.email{
     width: 40%;
 
 }
 col{
     align-items: center;
 }
-#mce-EMAIL{
+.name{
     width: 40%;
 }
-#mce-MMERGE2{
-    width: 80%;
+.messages{
+  opacity: 0.4;
+  width:80%;
+  height: 200px;
+  font-size: 16px;
+  color: white;
+  border: 2px solid black;
+  padding-bottom: 30px;
+  padding-left: 50px;
 }
 .footer{
   
