@@ -19,4 +19,4 @@ CODEBEAT LINK https://codebeat.co/projects/github-com-njogukarungu-delani_studio
 
 CONTRIBUTIONS: YPU CAN CONTRIBUTE TO THE WORK
 
- CONTACT: njogukarungu1@gmail.com
+ CONTACT: njogukarungu1@gmail.com   
